@@ -1,1 +1,1 @@
-Not writing code
+thinking about approximations
